@@ -7,12 +7,12 @@ Name file with cheats : dane.txt
 Before title insert #
 New line in file is analogy in wallaper
 
-S
 Note: You must change patch to the Fonts .
 
 Version 0.2
 
-Effect :
+source: https://consolechars.wordpress.com/2012/05/13/linux-cheats-wallpaper-generator-python/
+
 
 
 
